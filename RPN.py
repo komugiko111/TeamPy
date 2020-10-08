@@ -36,4 +36,4 @@ def RPN (formula):
     
     return stack[0]
      
-print(RPN('6 4 * 9 - 2 3 + /'))
+print(RPN('6 6 * 9 - 2 5 + /'))
